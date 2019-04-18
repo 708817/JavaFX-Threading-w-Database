@@ -86,7 +86,7 @@ public class JavaFX_ThreadTest extends Application  {
                         @Override
                         public void run() {
                             
-                        // LAHAT NG KAILANGAN NAG-UUPDATE SA INTERFACE FOR EVERY FIVE SECONDS, LAGAY DITO
+                        // LAHAT NG KAILANGAN NAG-UUPDATE SA GUI FOR EVERY FIVE SECONDS, LAGAY DITO
                             
                             // For every instance, i-clear yung laman ng Vbox 
                             vbb.getChildren().clear();
